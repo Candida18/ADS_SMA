@@ -1,10 +1,9 @@
-# Applied Data Science 
+# Applied Data Science
 
-Sr. No.       | Experiment Name
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-
+| Sr. No.      | Experiment Name |
+| ------------ | --------------- |
+| Content Cell | Content Cell    |
+| Content Cell | Content Cell    |
 
 # Social Media Analytics
 
@@ -36,8 +35,31 @@ Content Cell  | Content Cell
 <td>5</td>
 <td>Develop Content (text, emoticons, image, audio, video) based social media analytics model for business. </td>
 </tr>
+
+<tr>
+<td>6</td>
+<td>Develop Structure based social media analytics model for any business. ( e.g.
+Structure Based Models -community detection, influence analysis)</td>
+</tr>
+
+<tr>
+<td>7</td>
+<td>Develop a dashboard and reporting tool based on real time social media data. </td>
+</tr>
+
+<tr>
+<td>8</td>
+<td>Design the creative content for promotion of your business on social media </td>
+</tr>
+
+<tr>
+<td>9</td>
+<td> Analyze competitor activities using social media data.</td>
+</tr>
+
+<tr>
+<td>10</td>
+<td>Develop social media text analytics models for improving existing product/
+service by analyzing customer‘s reviews/comments </td>
+</tr>
 </table>
-
-
-
-
