@@ -2,8 +2,16 @@
 
 | Sr. No.      | Experiment Name |
 | ------------ | --------------- |
-| Content Cell | Content Cell    |
-| Content Cell | Content Cell    |
+| 1 | Data Visualization    |
+| 2 | Data Exploration    |
+| 3 | Data Cleaning |
+| 4 | Performance evaluation metrics for Data Models |
+| 5 | House Price prediction using Neural Networks | 
+| 6 | SMOTE |
+| 7 | Outlier detection using IQR, Z-score, LOF and DBSCAN |
+| 8 | Time Series Prediction with LSTM Recurrent Neural Networks |
+
+<br>
 
 # Social Media Analytics
 
